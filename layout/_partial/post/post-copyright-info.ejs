@@ -14,9 +14,7 @@ if (use_custom) { license_url = theme?.post?.copyright_info?.custom_link }
                 <%= page.title %>
             </div>
 
-            <div class="copyright-post-link border-box text-ellipsis">
-                <%= page.path %>
-            </div>
+            <a id="post_copyright_info_link" class="copyright-post-link border-box text-ellipsis" href="/<%= page.path %>"><%= page.path %></a>
         </div>
 
         <div class="copyright-info-bottom border-box">
