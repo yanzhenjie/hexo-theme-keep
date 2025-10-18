@@ -108,6 +108,6 @@ comment:
   page_not_found: 頁面缺失
   go_home: 前往首頁
 encryption:
-  excerpt: 🔒 文章已加密，輸入密碼後才能查看。
+  excerpt: 🔒 文章已加密，開啟後輸入密碼查看。
   input_password: 請輸入密碼...
   re_encryption: 重新加密
