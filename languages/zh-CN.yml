@@ -109,5 +109,5 @@ comment:
   go_home: 前往首页
 encryption:
   excerpt: 🔒 文章已加密，打开后输入密码查看。
-  input_password: 请输入密码（仅你知道）...
+  input_password: 请输入密码（你知道的）...
   re_encryption: 重新加密
